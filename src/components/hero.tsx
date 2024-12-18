@@ -8,12 +8,20 @@ const Hero = () => {
           <p className="mt-4 text-lg md:text-2xl">
             A passionate developer building impactful software solutions
           </p>
-          <a
-            href="#about"
-            className="inline-block mt-6 px-6 py-3 bg-white text-teal-600 font-bold rounded-lg hover:bg-gray-100 transition"
-          >
-            Learn More
-          </a>
+          <div className="mt-6 space-x-4">
+            <a
+              href="#about"
+              className="inline-block px-6 py-3 bg-white text-teal-600 font-bold rounded-lg hover:bg-gray-100 transition"
+            >
+              Learn More
+            </a>
+            <a
+              href="#contact"
+              className="inline-block px-6 py-3 bg-teal-500 text-white font-bold rounded-lg border-2 border-white hover:bg-teal-400 transition"
+            >
+              Contact Me
+            </a>
+          </div>
         </div>
       </section>
     );

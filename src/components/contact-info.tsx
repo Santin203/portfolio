@@ -29,7 +29,7 @@ const Contact = () => {
           </a>
           <a
             href="https://github.com/Santin203"
-            className="text-gray-700 hover:text-indigo-500 text-3xl transition"
+            className="text-gray-700 hover:text-indigo-500 text-2xl transition"
             aria-label="GitHub"
             target="_blank"
             rel="noreferrer"
