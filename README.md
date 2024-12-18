@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">Santiago Jiménez Portfolio Website</h1>
+Welcome to my developer portfolio. This is a space to showcase my passion for coding and design. 
 
-## Getting Started
+## Table of Contents
+1. <a href="#key-features">Key Features</a>
+2. <a href="#ideas-for-future-implementation">Ideas For Future Implementation</a>
+3. <a href="#technologies-used">Technologies Used</a>
+4. <a href="#how-to-use">How To Use</a>
+5. <a href="#support">Support</a>
+6. <a href="#license">License</a>
+7. <a href="#credit">Credit</a>
 
-First, run the development server:
+------------
 
+## Key Features
+- 
+
+## Ideas for Future Implementation
+- ~~Finish the website~~ (Completed)
+- Light/ dark mode
+- Custom mouse pointer
+- 3D elements
+- Resume in webpage design
+- Responsive design
+- Custom 404 page
+- Contact Form
+
+## Technologies Used
+![](https://img.shields.io/badge/React-334E68?style=plastic&logo=react&logoColor=D9E8FF&labelColor=061178) ![](https://img.shields.io/badge/HTML-334E68?style=plastic&logo=html5&logoColor=D9E8FF&labelColor=061178) ![](https://img.shields.io/badge/Tailwind-334E68?style=plastic&logo=tailwindcss&logoColor=D9E8FF&labelColor=061178) ![](https://img.shields.io/badge/TypeScript-334E68?style=plastic&logo=typescript&logoColor=D9E8FF&labelColor=061178) ![](https://img.shields.io/badge/Next.js-334E68?style=plastic&logo=next.js&logoColor=D9E8FF&labelColor=061178) ![](https://img.shields.io/badge/Vercel-334E68?style=plastic&logo=vercel&logoColor=D9E8FF&labelColor=061178)
+
+## How To Use
+Ensure you have the following installed on your computer:
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/download/) (version 20.6.1 or greater)
+	- Installing Node.js will automatically include [npm](http://npmjs.com)
+
+In your command line:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Clone this repository
+$ git clone https://github.com/Santin203/portfolio.git
+
+# Go into the repository
+$ cd portfolio
+
+# Install dependencies
+$ npm install
+
+# Run the app in development
+$ npm run dev
+
+# Build the app for production
+$ npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Support
+<a href="https://www.buymeacoffee.com/santii_jc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" ></a>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## License
+This project is licensed under the terms of 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Credit
+- [@santin203](https://github.com/santin203)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-061178?style=plastic&logoColor=D9E8FF&labelColor=061178)](https://santin203.github.io/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-061178?style=plastic&logo=github&logoColor=D9E8FF&labelColor=061178)](https://github.com/santin203)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-061178?style=plastic&logo=linkedin&logoColor=D9E8FF&labelColor=061178)](https://www.linkedin.com/in/jimenezsantiago/)
